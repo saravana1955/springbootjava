@@ -10,7 +10,7 @@ class DemoApplicationTests {
 	@Test
 	void contextLoads() {
 
-		assertEquals(40, 10 + 20);
+		assertEquals(30, 10 + 20);
 	}
 
 }
